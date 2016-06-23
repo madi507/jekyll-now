@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+I was born in Almaty. I am 16 years old. I like to play computer games, watch movies and anime, read books, mangas and comixes. In my family 5 member, they are: My mother, father, sister, brother.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[loloni.lolo@mail.ru](mailto:email@domain.com)
